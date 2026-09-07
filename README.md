@@ -45,7 +45,7 @@ Water Resources Engineer
 
 ## 📚 Publications
 
-[Your publication]
+https://scholar.google.com/citations?user=gWeOYisAAAAJ&hl=en&oi=ao
 
 ## 🛠️ Technical Skills
 
@@ -54,7 +54,7 @@ ArcGIS • PCSWMM • SewerGEMS • KYPIPE
 
 ## 📄 Curriculum Vitae
 
-[Download CV]
+https://yogesh66-3.github.io/yogesh.gautam/Yogesh_Gautam_CV2027_01.pdf
 
 ## 🌐 Personal Website
 
