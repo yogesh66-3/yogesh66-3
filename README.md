@@ -10,7 +10,7 @@ management.
 
 ## 👨‍💻 About Me
 
-I am a civil and water resources engineer specializing in...
+I am a civil and water resources engineer specializing in sustainable water infrastructure, hydraulic modeling, water quality, and resilient infrastructure management.
 
 ## 💧 Areas of Expertise
 
@@ -58,7 +58,7 @@ https://yogesh66-3.github.io/yogesh.gautam/Yogesh_Gautam_CV2027_01.pdf
 
 ## 🌐 Personal Website
 
-[Visit my website]
+https://github.com/yogesh66-3
 
 ## 📫 Connect
 
